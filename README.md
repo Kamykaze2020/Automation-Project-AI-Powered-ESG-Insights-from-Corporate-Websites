@@ -125,5 +125,5 @@ For further enhancements, the model can be fine-tuned with additional ESG-relate
 
 ## 📮 Contact & Contributions
 
-Feel free to contribute or reach out for collaborations!
+Feel free to contribute or use my work as you see fit!
 
