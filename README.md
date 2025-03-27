@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-**ESG Intel** is an advanced data extraction and analysis pipeline designed to automate the process of retrieving ESG (Environmental, Social, and Governance) information from company websites. By leveraging web scraping, NLP embedding, vector search, and AI-powered query processing, this project enables efficient ESG intelligence gathering from publicly available sources.
+This Automation Project is an advanced data extraction and analysis pipeline designed to automate the process of retrieving ESG (Environmental, Social, and Governance) information from company websites. By leveraging web scraping, NLP embedding, vector search, and AI-powered query processing, this project enables efficient ESG intelligence gathering from publicly available sources.
 
 This project is particularly valuable for ESG analysts, investment firms, and sustainability researchers who require streamlined access to ESG-related disclosures without manual data collection.
 
